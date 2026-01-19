@@ -1,8 +1,7 @@
 # hair-day-portfolio
 Hair Day beauty boutique website
 🔗 Live Preview
-
-(Add your GitHub Pages link here once deployed)
+(https://michelleanyango55-source.github.io/hair-day-portfolio/)
 
 🛠️ Technologies Used
 
@@ -13,7 +12,7 @@ CSS3 (Flexbox, Grid, Media Queries)
 Responsive Design (Mobile-first principles)
 
 📂 Project Structure
-Glow-Grace-Portfolio/
+hair-day-portfolio/
 │── index.html
 │── styles.css
 │── images/
@@ -26,14 +25,14 @@ Glow-Grace-Portfolio/
 
 ✨ Features
 
-Clean header with logo and navigation
+-Clean header with logo and navigation
 
-Hero section with background image and call-to-action
+-Hero section with background image and call-to-action
 
-Services section using CSS Grid
+-Services section using CSS Grid
 
-Interactive hover animations
+-Interactive hover animations
 
-Two-column footer with branding and copyright
+-Two-column footer with branding and copyright
 
-Fully responsive across devices
+-Fully responsive across devices
