@@ -1,9 +1,12 @@
 # hair-day-portfolio
 Hair Day beauty boutique website
-🔗 Live Preview
+**Project Overview**********
+Hair Day is a responsive front-end portfolio website built using HTML5 and CSS3. The project demonstrates semantic markup, modern layout techniques with Flexbox and CSS Grid, responsive design principles, and intentional UI styling. It was designed to reflect a real-world beauty boutique brand, with a focus on clean structure, visual hierarchy, and user engagement.
+
+**🔗 Live Preview**
 (https://michelleanyango55-source.github.io/hair-day-portfolio/)
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 HTML5 (Semantic structure)
 
@@ -11,7 +14,7 @@ CSS3 (Flexbox, Grid, Media Queries)
 
 Responsive Design (Mobile-first principles)
 
-📂 Project Structure
+**📂 Project Structure**
 hair-day-portfolio/
 │── index.html
 │── styles.css
@@ -22,8 +25,8 @@ hair-day-portfolio/
 │   ├── hair.jpg
 │   ├── makeup.jpg
 │   └── nails.jpg
-
-✨ Features
+**
+✨ Features**
 
 -Clean header with logo and navigation
 
